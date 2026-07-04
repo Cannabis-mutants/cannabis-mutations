@@ -1,0 +1,74 @@
+name: Mutation submission
+description: Suggest a cannabis mutation to add to the open dataset.
+title: "[Mutation]: "
+labels: ["mutation-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Fill in what you can — blanks are fine, we verify and
+        complete entries before publishing. Accepted entries join the open dataset under
+        a CC-BY 4.0 licence, credited to you unless you ask to stay anonymous.
+  - type: input
+    id: mutation_name
+    attributes:
+      label: Mutation name
+      placeholder: e.g. Ducksfoot
+    validations:
+      required: true
+  - type: input
+    id: also_known_as
+    attributes:
+      label: Also known as
+      description: Aliases or regional names.
+  - type: dropdown
+    id: section
+    attributes:
+      label: Which section does it belong to?
+      options:
+        - Ducksfoot Cannabis
+        - Freakshow
+        - Australian Bastard Cannabis
+        - Other Mutations
+        - Not sure
+  - type: textarea
+    id: description
+    attributes:
+      label: What makes it distinctive?
+      description: Leaf shape, growth habit, colour, how to identify it.
+    validations:
+      required: true
+  - type: dropdown
+    id: genetic_basis
+    attributes:
+      label: Genetic basis
+      options:
+        - Dominant
+        - Recessive
+        - Polygenic
+        - Chimeral
+        - Unknown
+  - type: dropdown
+    id: inheritance_stability
+    attributes:
+      label: Inheritance / stability
+      options:
+        - Stable
+        - Semi-stable
+        - Unstable
+        - Unknown
+  - type: input
+    id: origin
+    attributes:
+      label: Origin / where it was found
+      description: Person, collective, or region.
+  - type: textarea
+    id: references
+    attributes:
+      label: Sources / references
+      description: Links to threads, papers, breeder pages, or photos we can verify.
+  - type: input
+    id: photo_url
+    attributes:
+      label: Photo or link URL
+      placeholder: https://…
