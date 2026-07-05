@@ -1,6 +1,6 @@
 {
   "name": "Cannabis Mutations Dataset",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "CC-BY-4.0",
   "source": "https://cannabismutants.com",
   "attribution": "Cannabis Mutants (cannabismutants.com)",
@@ -63,7 +63,7 @@
     {
       "slug": "variegation",
       "name": "Variegation",
-      "section": "Other Mutations > Variegation",
+      "section": "Variegation",
       "morphology_group": "Pigmentation",
       "also_known_as": "Variegated cannabis; partial albinism; white weed",
       "definition": "Partial loss of chlorophyll producing white or pale patches against normal green, sometimes a leaf split half-white/half-green.",
@@ -76,6 +76,24 @@
       "notable_traits": "White/pale patches from lost chlorophyll; slower growth and lower yield; total albinos die young.",
       "references": "WeedSeedShop; Blimburn Seeds; Mr Grow It",
       "url": "https://cannabismutants.com/mutation/variegation/",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "mnogolistka",
+      "name": "Mnogolistka",
+      "section": "Mnogolistka",
+      "morphology_group": "Leaflet & blade",
+      "also_known_as": "Many-leaved cannabis (from the Russian for “many-leaved”)",
+      "definition": "Serrated leaflets overlap and partly fuse, stacking in two rows one above the other to form a dense, layered leaf.",
+      "genetic_basis": "Not formally described; from Russian (Krasnodar) landrace lineage",
+      "inheritance_stability": "Carried through landrace seed lines; not yet well characterised",
+      "expression_rate": "Not yet characterised",
+      "origin": "Russian (Krasnodar) landrace lineage",
+      "first_documented": "Circulated in landrace seed circles; little formal literature",
+      "reproducibility": "Passed through landrace seed lines; inheritance not well characterised",
+      "notable_traits": "Doubled/stacked serrated leaflets forming a dense, layered leaf; crowded, bushy, stealthy growth habit.",
+      "references": "The Real Seed Company; community grower forums",
+      "url": "https://cannabismutants.com/mutation/mnogolistka/",
       "license": "CC-BY-4.0"
     }
   ]
