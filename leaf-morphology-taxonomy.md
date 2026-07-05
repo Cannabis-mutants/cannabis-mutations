@@ -1,6 +1,6 @@
 # Cannabis Leaf Morphology & Mutation Taxonomy
 
-**Version 0.1 · CC-BY 4.0 · Cannabis Mutants (https://cannabismutants.com)**
+**Version 0.1.1 · CC-BY 4.0 · Cannabis Mutants (https://cannabismutants.com)**
 
 An open reference naming and defining the leaf morphologies and mutations of *Cannabis*.
 
@@ -86,4 +86,4 @@ Each entry: *Also known as · Definition · How to identify · Basis · Heritabi
 - **Examples:** Occasional across many strains.
 
 ---
-*Cite:* Cannabis Mutants (2026). *Cannabis Leaf Morphology & Mutation Taxonomy*, v0.1. cannabismutants.com. CC-BY 4.0.
+*Cite:* Cannabis Mutants (2026). *Cannabis Leaf Morphology & Mutation Taxonomy*, v0.1.1. cannabismutants.com. CC-BY 4.0.

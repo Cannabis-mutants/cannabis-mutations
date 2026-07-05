@@ -19,7 +19,7 @@ Open, shared data + a common vocabulary lets everyone build on the same foundati
 of re-inventing it — and lets researchers, developers and other sites reuse and cite it.
 
 ## How to cite
-> Cannabis Mutants (2026). *Cannabis Leaf Morphology & Mutation Taxonomy* / *Cannabis Mutations Dataset*, v0.1. cannabismutants.com. CC-BY 4.0.
+> Cannabis Mutants (2026). *Cannabis Leaf Morphology & Mutation Taxonomy* / *Cannabis Mutations Dataset*, v0.1.1. cannabismutants.com. CC-BY 4.0.
 
 ## Contribute
 Corrections, better/primary sources, photographs, and newly documented morphologies are
