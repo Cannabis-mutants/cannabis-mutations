@@ -61,24 +61,6 @@
       "license": "CC-BY-4.0"
     },
     {
-      "slug": "whorled-phyllotaxy",
-      "name": "Whorled Phyllotaxy",
-      "section": "Other Mutations",
-      "morphology_group": "Phyllotaxy & architecture",
-      "also_known_as": "Tri-leaf; three-leaf cannabis; trifoliate",
-      "definition": "Three or more leaves emerging from a single node in a ring instead of the usual opposite pair, often with an extra branch per node.",
-      "genetic_basis": "Genetic (often somatic); mechanism not fully understood",
-      "inheritance_stability": "Unstable; cannot be fixed",
-      "expression_rate": "Sporadic; often fades as the plant matures",
-      "origin": "Appears spontaneously across many strains",
-      "first_documented": "Long observed by growers; widely documented in cultivation literature",
-      "reproducibility": "Does not breed true",
-      "notable_traits": "3+ leaves and an extra branch per node; bushier plant with more budding sites; usually harmless; may slow growth slightly.",
-      "references": "Mr Grow It; Royal Queen Seeds; Dutch Passion",
-      "url": "https://cannabismutants.com/mutation/whorled-phyllotaxy/",
-      "license": "CC-BY-4.0"
-    },
-    {
       "slug": "variegation",
       "name": "Variegation",
       "section": "Other Mutations > Variegation",
@@ -94,42 +76,6 @@
       "notable_traits": "White/pale patches from lost chlorophyll; slower growth and lower yield; total albinos die young.",
       "references": "WeedSeedShop; Blimburn Seeds; Mr Grow It",
       "url": "https://cannabismutants.com/mutation/variegation/",
-      "license": "CC-BY-4.0"
-    },
-    {
-      "slug": "polyploid",
-      "name": "Polyploid",
-      "section": "Other Mutations",
-      "morphology_group": "Chromosomal",
-      "also_known_as": "Tetraploid; triploid; polyploid cannabis",
-      "definition": "Three or more complete chromosome sets instead of the usual two (commonly tetraploid, four sets).",
-      "genetic_basis": "Whole-genome duplication",
-      "inheritance_stability": "Unstable; often reverts to diploid or mixoploid",
-      "expression_rate": "Rare naturally; usually chemically induced",
-      "origin": "Induced with colchicine or oryzalin; very rare in the wild",
-      "first_documented": "Studied in cannabis research and hemp breeding programmes",
-      "reproducibility": "Difficult to stabilise",
-      "notable_traits": "Larger, thicker leaves; more vigour; higher flavonoid, protein and starch content; prone to reverting.",
-      "references": "Frontiers in Plant Science; Dutch Passion; Kannabia",
-      "url": "https://cannabismutants.com/mutation/polyploid/",
-      "license": "CC-BY-4.0"
-    },
-    {
-      "slug": "creeper",
-      "name": "Creeper",
-      "section": "Other Mutations",
-      "morphology_group": "Phyllotaxy & architecture",
-      "also_known_as": "Creeper phenotype; vine cannabis (related)",
-      "definition": "Heavy lower branches bow to the ground and grow horizontally, sometimes rooting at contact points; the related vine form grows thin, spiralling, hop-like stems.",
-      "genetic_basis": "Genetic; tropical landraces (vine form linked to ABC)",
-      "inheritance_stability": "Rare and not stabilised",
-      "expression_rate": "Uncommon; favoured by large plants in humid tropical conditions",
-      "origin": "Tropical strains; vine form arises from ABC crosses",
-      "first_documented": "Described in grower literature; never commercialised",
-      "reproducibility": "Not developed into any known strain",
-      "notable_traits": "Ground-creeping branches that root at contact points, adding vigour and camouflage; related vine form has thin, spiralling, hop-like stems.",
-      "references": "Sensi Seeds; Royal Queen Seeds; Zamnesia",
-      "url": "https://cannabismutants.com/mutation/creeper/",
       "license": "CC-BY-4.0"
     }
   ]

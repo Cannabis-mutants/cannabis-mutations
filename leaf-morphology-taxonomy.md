@@ -49,14 +49,6 @@ Each entry: *Also known as · Definition · How to identify · Basis · Heritabi
 
 ## 2. Phyllotaxy & plant architecture
 
-### Whorled phyllotaxy
-- **Also known as:** Tri-leaf, three-leaf, trifoliate
-- **Definition:** 3+ leaves per node in a ring instead of an opposite pair, often with an extra branch.
-- **How to identify:** Nodes with 3+ leaves/branches; bushier plant, more budding sites.
-- **Basis:** Usually somatic (arises in the growing plant).
-- **Heritability & stability:** Unstable; does not breed true; often fades into flower.
-- **Examples:** Appears spontaneously across many strains.
-
 ### Fasciation
 - **Also known as:** Cresting, banding
 - **Definition:** Abnormal flattening/fusion of a stem or growing tip (ribboned rather than round).
@@ -64,14 +56,6 @@ Each entry: *Also known as · Definition · How to identify · Basis · Heritabi
 - **Basis:** Developmental disruption of the growing tip; genetic, hormonal, injury or environmental.
 - **Heritability & stability:** Typically not heritable; sporadic.
 - **Examples:** Seen occasionally in colas and branches.
-
-### Creeper & vine habit
-- **Also known as:** Creeper phenotype; vine cannabis (related)
-- **Definition:** Lower branches bow to the ground and grow horizontally, rooting at contact points; vine form grows thin, spiralling, hop-like stems.
-- **How to identify:** Sprawling ground-creeping branches, or elongated twining stems.
-- **Basis:** Tropical landraces; vine form a rare spin-off of ABC crosses.
-- **Heritability & stability:** Rare; not developed into a named strain.
-- **Examples:** Large tropical sativas in humid conditions.
 
 ## 3. Pigmentation
 
@@ -91,17 +75,7 @@ Each entry: *Also known as · Definition · How to identify · Basis · Heritabi
 - **Heritability & stability:** Not viable; dies young.
 - **Examples:** Rare; brief seedlings.
 
-## 4. Chromosomal
-
-### Polyploidy
-- **Also known as:** Tetraploid, triploid, polyploid cannabis
-- **Definition:** 3+ chromosome sets instead of two (commonly tetraploid).
-- **How to identify:** Larger, thicker leaves; sturdier stems; more vigour.
-- **Basis:** Whole-genome duplication; rare in the wild, usually induced (colchicine/oryzalin).
-- **Heritability & stability:** Unstable; reverts to diploid/mixoploid.
-- **Examples:** Experimental breeding and hemp research.
-
-## 5. Seed & seedling
+## 4. Seed & seedling
 
 ### Polyembryony
 - **Also known as:** Twin seedlings, twin taproot
